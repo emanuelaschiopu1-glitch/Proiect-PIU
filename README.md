@@ -1,4 +1,4 @@
-Aplicație pentru gestionarea organizării evenimentelor
+**Aplicație pentru gestionarea organizării evenimentelor**
 
 # Descriere
 
