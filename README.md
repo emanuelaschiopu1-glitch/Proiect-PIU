@@ -4,8 +4,6 @@ Aplicație pentru gestionarea organizării evenimentelor
 
 Este o aplicație realizată în C# care permite gestionarea și organizarea diferitelor tipuri de evenimente, precum nunți, aniversări, botezuri, petreceri sau conferințe. Aplicația oferă utilizatorilor posibilitatea de a administra informațiile despre evenimente într-un mod simplu și eficient.
 
-Prin intermediul acestei aplicații pot fi introduse, modificate sau șterse evenimente, iar utilizatorul poate vizualiza diverse informații utile despre acestea.
-
 # Informații gestionate pentru fiecare eveniment
 
 Pentru fiecare eveniment sunt stocate următoarele date:
